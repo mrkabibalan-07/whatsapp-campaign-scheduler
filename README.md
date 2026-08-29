@@ -1,5 +1,3 @@
-# whatsapp-campaign-scheduler
-WhatsApp campaign scheduler with contact management, message queues, delivery tracking, retries, and REST APIs.
 # WhatsApp Campaign Scheduler
 
 > A production-ready messaging automation platform for creating, scheduling, and managing WhatsApp campaigns at scale.
